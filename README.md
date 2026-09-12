@@ -13,6 +13,9 @@ El proyecto implementa un pipeline modular de Inteligencia Artificial en Python 
 
 ![Clusters K-Means sobre componentes PCA (2D)](/data/clusters_pca.png)
 
+
+##  RESULTADOS OBTENIDOS PARTE 1
 ![RESULTADOS OBTENIDOS PARTE 1](/data/resultados1.png)
 
+##  RESULTADOS OBTENIDOS PARTE 2
 ![RESULTADOS OBTENIDOS PARTE 2](/data/resultados2.png)
